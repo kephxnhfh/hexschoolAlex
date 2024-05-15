@@ -2,7 +2,10 @@
   width: 500px;
   height: 500px;
   background: #004466;
+  margin: 0 auto;
   /* border: 1px solid #000; */
+  display: flex;
+  justify-content: space-between;
 }
 
 .item {
